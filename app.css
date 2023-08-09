@@ -1,4 +1,23 @@
+.box-one {
+    background-color: red;
+    border: 2px solid blue;
+    color: yellow;
+    padding-bottom: 5px;
+    padding-top: 5px; 
+    text-align: center;
+}
+.box-two {
+    background-color: blue;
+    border: 2px solid red;
+    color: yellow;
+    padding-left: 50px;
+}
+#curser-style {
+    cursor: crosshair;
+}
 
+
+/* 
 
 .list-style-one {
     list-style-type: circle;
@@ -11,8 +30,8 @@
 .list-style-three {
     list-style-type: decimal;
     list-style-position: inside;
-    /* list-style-image: ; */
+    /* list-style-image: ; 
 }
 .list-style-four {
     list-style-type: lower-alpha;
-}
+} */
